@@ -1,0 +1,15 @@
+input{
+    width: 250px;
+    margin-bottom: 4px;
+    padding: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+.Trial{
+    border: none;
+    border-radius: 3px;
+    padding: 4px;
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+    width: 262px;
+    font-family: 'Poppins', sans-serif;
+}

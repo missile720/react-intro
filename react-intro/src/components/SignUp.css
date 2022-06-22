@@ -1,0 +1,16 @@
+.Box{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Footnote{
+    font-size: 10px;
+    color: hsl(246, 25%, 77%);
+    font-family: 'Poppins', sans-serif;
+}
+
+.Terms{
+    color: hsl(0, 100%, 74%);
+}
