@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: hsl(0, 100%, 74%);
+  background-image: url("./bg-intro-desktop.png");
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background-image: url("./bg-intro-mobile.png");
+  }
+}
