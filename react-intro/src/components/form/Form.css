@@ -4,6 +4,11 @@ input{
     padding: 4px;
     font-family: 'Poppins', sans-serif;
 }
+
+.InputField{
+    position: relative;
+}
+
 .Trial{
     border: none;
     border-radius: 3px;
@@ -13,3 +18,16 @@ input{
     width: 262px;
     font-family: 'Poppins', sans-serif;
 }
+
+.InvalidImage{
+    position:absolute;
+    top: 4px;
+    right: 5px;
+}
+
+.Invalid {
+    color: red;
+    margin: 0px;
+    font-size: 10px;
+    text-align: end;
+  }
